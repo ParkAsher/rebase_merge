@@ -17,3 +17,7 @@ function hyunmin() {
 function monday() {
   console.log("monday");
 }
+
+function tuesday() {
+  console.log("tuesday");
+}
