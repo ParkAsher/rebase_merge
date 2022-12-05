@@ -6,8 +6,8 @@ function notGoodbye() {
   console.log("notGoodbye");
 }
 
-function testing123() {
-  console.log("testing123");
+function testing456() {
+  console.log("testing456");
 }
 
 function hyunmin() {
