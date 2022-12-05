@@ -18,6 +18,6 @@ function monday() {
   console.log("monday");
 }
 
-function wednesday() {
-  console.log("wednesday");
+function thursday() {
+  console.log("thursday");
 }
