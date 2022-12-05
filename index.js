@@ -1,15 +1,19 @@
 function hello() {
-    console.log("hello");
+  console.log("hello");
 }
 
 function goodbye() {
-    console.log("goodbye");
+  console.log("goodbye");
 }
 
 function test() {
-    console.log("test");
+  console.log("test");
 }
 
 function hyunmin() {
-    console.log("hello")
+  console.log("hello");
+}
+
+function monday() {
+  console.log("monday");
 }
