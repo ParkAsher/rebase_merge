@@ -11,5 +11,5 @@ function test() {
 }
 
 function hyunmin() {
-    console.log("dfadfdaf")
+    console.log("hello")
 }
