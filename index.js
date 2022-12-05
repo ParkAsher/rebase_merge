@@ -1,5 +1,5 @@
-function hello() {
-  console.log("hello");
+function hi() {
+  console.log("hi");
 }
 
 function notGoodbye() {
