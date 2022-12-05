@@ -9,3 +9,7 @@ function goodbye() {
 function test() {
     console.log("test");
 }
+
+function hyunmin() {
+    console.log("dfadfdaf")
+}
