@@ -2,8 +2,8 @@ function hello() {
   console.log("hello");
 }
 
-function goodbye() {
-  console.log("goodbye");
+function notGoodbye() {
+  console.log("notGoodbye");
 }
 
 function test() {
