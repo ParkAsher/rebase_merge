@@ -14,6 +14,6 @@ function hyunmin() {
   console.log("hello");
 }
 
-function monday() {
-  console.log("monday");
+function sunday() {
+  console.log("sunday");
 }
